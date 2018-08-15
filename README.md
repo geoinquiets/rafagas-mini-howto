@@ -41,3 +41,12 @@ Proposta:
 1. Un bot/cron que cada dia agafi el llistat d'entrades, n’extregui les X primeres, i les pengi en format tuit (generant la captura de forma automàtica), envii el mail i els tregui de la llista de pendents.
 
 La “única” feina que tindríem és la de vigilar que el document d’entrades mai quedi buit. No estaria malament tenir una web, a github pages mateix, on es pugui buscar entre les entrades ja enviades i un formulari on enviar-ne però igual això ja seria per una 2a fase.
+
+
+## Instal.lació FeedReader a Ubuntu
+
+```bash
+sudo apt install xdg-desktop-portal xdg-desktop-portal-gtk flatpak
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub org.gnome.FeedReader
+```
