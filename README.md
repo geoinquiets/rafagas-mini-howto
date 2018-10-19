@@ -12,8 +12,11 @@
 
 * Obres el **lector RSS** i vas llegint titulars. Si et fa el pes cliques l'enllaç, i si la notícia s'ho val copies la URL en un draft de **Gmail88.
 * Vas llegint **Twitter** i fas el mateix.
-* En acabat tries 3 o 4 enllaços del draft, fas les **captures de pantalla**, redactes la frase per a cada un i els programes a Gmail per enviar (ja no funciona i s'ha de fer a mà).
-* Els copies a **Buffer** a l'slot corresponent per enviar per Twitter i Linkedin automàticament a l'hora programada.
+* Col·laboradors com Ivan o Xurxo envien coses per mail o Telegram o Twitter. Afegir al draft.
+* Comprovar entrades per evitar repost (se n'han fet alguns per actualitat del tema o avenços però s'avisa).
+* En acabat tries 3 o 4 enllaços del draft, redactes el text per a cada un i els afegeixes al draft del dia següent.
+* Fas les **captures de pantalla**.
+* Copies text i captura de pantalla a **Buffer** a l'slot corresponent per enviar per Twitter i Linkedin automàticament a l'hora programada.
 
 Comptat i debatut al final són unes dues hores diàries de dedicació mitjana.
 
