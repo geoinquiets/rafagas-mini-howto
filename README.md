@@ -1,4 +1,6 @@
 # Rafagas Mini-HOWTO
+Enviament diari de mail i tuits de temes d'actualitat relacionats amb el món geo. Usualment són 4 enllaços amb el seu text, excepte durant el mes d'agost que és 1 o 2 tuits diaris que es recullen en un mail setmanal i s'envia dissabte. 
+
 
 ## Fonts de dades
 
